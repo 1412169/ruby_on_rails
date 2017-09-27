@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+docker-compose exec web bash --> vao cmd cua may ao
